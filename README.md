@@ -292,6 +292,15 @@ Diagram di atas menunjukkan alur utama mulai dari user mengakses aplikasi, prose
 
 ---
 
-## Lisensi
+## TAMPILAN
 
-Project ini digunakan untuk keperluan pembelajaran.
+
+<img width="1366" height="768" alt="Screenshot at 2025-12-20 06-56-01" src="https://github.com/user-attachments/assets/afa2aeab-ed46-48da-805e-6c2cb4dfbf7d" />
+
+<img width="1366" height="768" alt="Screenshot at 2025-12-20 06-49-12" src="https://github.com/user-attachments/assets/ef0dcd34-e53b-497e-92a0-441410f2aeb8" />
+
+<img width="1366" height="768" alt="Screenshot at 2025-12-20 06-48-32" src="https://github.com/user-attachments/assets/32e053c3-31e5-43e8-9ae9-6a5c5d6dfc59" />
+
+<img width="1366" height="768" alt="Screenshot at 2025-12-20 06-48-04" src="https://github.com/user-attachments/assets/7f59add9-6ef7-43a9-a1d4-fe0900ee529b" />
+
+
